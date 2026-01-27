@@ -1,5 +1,7 @@
 ---
-title: Home
+title: "Anh Duc Ngo (Lukáš) — English for Designers"
+description: "Winter semester coursework: accessible writing, alt text iterations, metadata, type specimen, business card & pitch."
+image: "/english-for-designers/assets/character.jpeg"
 ---
 
 # 👋 Hi I’m Lukáš…
