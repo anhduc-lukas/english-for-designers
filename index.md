@@ -11,8 +11,8 @@ title: Home
 #### 1) First Chapter — “Content first”
 This chapter was focused on accessibility in design and writing.
 
-- **1.1** [Design of a unique Bespoke Character](/bespoke-character.html)
-- **1.2** [Personal business card](/business-card.html)
+- **1.1** [Design of a unique Bespoke Character](bespoke-character.html)
+- **1.2** [Personal business card](business-card.html)
 
 ---
 
