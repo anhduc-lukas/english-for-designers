@@ -1,5 +1,5 @@
 ---
-title: "Anh Duc Ngo (Lukáš) — English for Designers"
+title: "Anh Duc Ngo (Lukáš) | English for Designers"
 description: "Winter semester coursework: accessible writing, alt text iterations, metadata, type specimen, business card & pitch."
 image: "/english-for-designers/assets/character.jpeg"
 ---
@@ -10,7 +10,7 @@ image: "/english-for-designers/assets/character.jpeg"
 
 ### English Course materials:
 
-#### 1) First Chapter — “Content first”
+#### 1) First Chapter | “Content first”
 This chapter was focused on accessibility in design and writing.
 
 - **1.1** [Design of a unique Bespoke Character](bespoke-character.html)
@@ -18,5 +18,5 @@ This chapter was focused on accessibility in design and writing.
 
 ---
 
-#### 2) Second Chapter — “First impressions”
+#### 2) Second Chapter | “First impressions”
 - **2.1** [Something else](chapter-2-1.html)
