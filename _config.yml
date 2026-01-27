@@ -1,3 +1,13 @@
-title: english-for-designers
-description: My English coursework showcase
-theme: jekyll-theme-cayman
+title: "Anh Duc Ngo (Lukáš)"
+tagline: "Creative Director at Popcorn Group"
+description: "English for Designers — Winter semester coursework showcase."
+
+url: "https://anhduc-lukas.github.io"
+baseurl: "/english-for-designers"
+
+plugins:
+  - jekyll-seo-tag
+
+author:
+  name: "Anh Duc Ngo (Lukáš)"
+  url: "https://anhduc-lukas.github.io"
