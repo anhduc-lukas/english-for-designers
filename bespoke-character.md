@@ -7,3 +7,6 @@ title: Bespoke Character
 ## ![CHARACTER R IMAGE](assets/character.jpeg)
 
 ##### ⬅ [Back to main page](index.html)
+---
+
+⬅ Prev: [Home](./) · Next: [Business Card](business-card.html)
