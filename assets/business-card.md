@@ -6,6 +6,6 @@ title: Business Card
 
 ---
 
-## ![Business card](assets/business-card.jpg)
+## ![Business card](assets/adn-bc-07.jpg)
 
 ##### ⬅ [Back to main page](index.html)
