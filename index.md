@@ -4,6 +4,14 @@ description: "Winter semester coursework: accessible writing, alt text iteration
 image: https://anhduc-lukas.github.io/english-for-designers/assets/character.jpeg
 ---
 
+<nav>
+  <a href="./">Home</a> ·
+  <a href="content-first/">Content First</a> ·
+  <a href="first-impressions/">First Impressions</a>
+</nav>
+
+---
+
 # 👋 Hi I’m Lukáš…
 
 …this is a complete showcase of my coursework in English class.
