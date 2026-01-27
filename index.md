@@ -19,4 +19,4 @@ This chapter was focused on accessibility in design and writing.
 ---
 
 #### 2) Second Chapter | “First impressions”
-- **2.1** [Who am I?](chapter-2-1.html)
+- **2.1** [My presentation (PDF)](assets/first-impressions-pitch.pdf)
